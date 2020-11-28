@@ -11,9 +11,13 @@ const Articles = ({ articlesData }) => {
       key={index}
     >
       <div className='article'>
-        <img src={article.url} alt='' />
         <div className='text-container'>
-          <h1 className='article-title'>{article.title}</h1>
+          <h1 className='article-title'>Title nr 1</h1>
+          <h2>{article.title}</h2>
+          <div className='arrow'></div>
+        </div>
+        <div className='article-image-div'>
+          <img src={article.thumb} alt='' />
         </div>
       </div>
     </a>
