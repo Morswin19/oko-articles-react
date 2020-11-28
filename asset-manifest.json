@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oko-articles-react/static/css/main.49414b5c.chunk.css",
+    "main.js": "/oko-articles-react/static/js/main.6952aca6.chunk.js",
+    "main.js.map": "/oko-articles-react/static/js/main.6952aca6.chunk.js.map",
+    "runtime-main.js": "/oko-articles-react/static/js/runtime-main.24e651ee.js",
+    "runtime-main.js.map": "/oko-articles-react/static/js/runtime-main.24e651ee.js.map",
+    "static/js/2.6dad7c5b.chunk.js": "/oko-articles-react/static/js/2.6dad7c5b.chunk.js",
+    "static/js/2.6dad7c5b.chunk.js.map": "/oko-articles-react/static/js/2.6dad7c5b.chunk.js.map",
+    "static/js/3.132f2c18.chunk.js": "/oko-articles-react/static/js/3.132f2c18.chunk.js",
+    "static/js/3.132f2c18.chunk.js.map": "/oko-articles-react/static/js/3.132f2c18.chunk.js.map",
+    "index.html": "/oko-articles-react/index.html",
+    "static/css/main.49414b5c.chunk.css.map": "/oko-articles-react/static/css/main.49414b5c.chunk.css.map",
+    "static/js/2.6dad7c5b.chunk.js.LICENSE.txt": "/oko-articles-react/static/js/2.6dad7c5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e651ee.js",
+    "static/js/2.6dad7c5b.chunk.js",
+    "static/css/main.49414b5c.chunk.css",
+    "static/js/main.6952aca6.chunk.js"
+  ]
+}
