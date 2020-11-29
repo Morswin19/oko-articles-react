@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/oko-articles-react/static/css/main.09299dfc.chunk.css",
-    "main.js": "/oko-articles-react/static/js/main.112055ae.chunk.js",
-    "main.js.map": "/oko-articles-react/static/js/main.112055ae.chunk.js.map",
+    "main.css": "/oko-articles-react/static/css/main.7e9f5e56.chunk.css",
+    "main.js": "/oko-articles-react/static/js/main.9d874cd8.chunk.js",
+    "main.js.map": "/oko-articles-react/static/js/main.9d874cd8.chunk.js.map",
     "runtime-main.js": "/oko-articles-react/static/js/runtime-main.cbff9169.js",
     "runtime-main.js.map": "/oko-articles-react/static/js/runtime-main.cbff9169.js.map",
     "static/js/2.049e9649.chunk.js": "/oko-articles-react/static/js/2.049e9649.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.12e58334.chunk.js": "/oko-articles-react/static/js/3.12e58334.chunk.js",
     "static/js/3.12e58334.chunk.js.map": "/oko-articles-react/static/js/3.12e58334.chunk.js.map",
     "index.html": "/oko-articles-react/index.html",
-    "static/css/main.09299dfc.chunk.css.map": "/oko-articles-react/static/css/main.09299dfc.chunk.css.map",
+    "static/css/main.7e9f5e56.chunk.css.map": "/oko-articles-react/static/css/main.7e9f5e56.chunk.css.map",
     "static/js/2.049e9649.chunk.js.LICENSE.txt": "/oko-articles-react/static/js/2.049e9649.chunk.js.LICENSE.txt",
     "static/media/Header.sass": "/oko-articles-react/static/media/reader.8b6ca600.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cbff9169.js",
     "static/js/2.049e9649.chunk.js",
-    "static/css/main.09299dfc.chunk.css",
-    "static/js/main.112055ae.chunk.js"
+    "static/css/main.7e9f5e56.chunk.css",
+    "static/js/main.9d874cd8.chunk.js"
   ]
 }
