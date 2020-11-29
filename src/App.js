@@ -6,19 +6,10 @@ import Header from './components/Header';
 import './styles/App.sass';
 
 const App = () => {
+  //data variable with all articles
   const [articlesData, setArticlesData] = useState([]);
-  // const [articlesAmount, setArticlesAmount] = useState(6);
-  // const [articlesDataAmount, setArticlesDataAmount] = useState();
 
-  // const addArticlesFunction = () => {
-  //   if (window.scrollY + window.innerHeight > document.body.offsetHeight - 50) {
-  //     setTimeout(() => {
-  //       setArticlesAmount(articlesAmount + 6);
-  //       window.removeEventListener('scroll', addArticlesFunction);
-  //     }, 200);
-  //   }
-  // };
-
+  //fetching articles data from endpoint link
   useEffect(() => {
     fetch('https://pastebin.pl/view/raw/e1658aa0')
       .then(response => response.json())
@@ -27,13 +18,10 @@ const App = () => {
       });
   }, []);
 
-  console.log();
   return (
     <div className='App'>
       <Header />
-      <div className='articles-container'>
-        <Articles articlesData={articlesData} />
-      </div>
+      <Articles articlesData={articlesData} />
     </div>
   );
 };
