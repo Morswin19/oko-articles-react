@@ -1,3 +1,5 @@
+$loaderBackground: #333333
+
 .loader-container
     width: 100vw
     .loader
@@ -7,12 +9,12 @@
         width: 11em
         height: 11em
         border-radius: 50%
-        background: #4237dd
-        background: -moz-linear-gradient(left, #4237dd 10%, rgba(255, 255, 255, 0) 42%)
-        background: -webkit-linear-gradient(left, #4237dd 10%, rgba(255, 255, 255, 0) 42%)
-        background: -o-linear-gradient(left, #4237dd 10%, rgba(255, 255, 255, 0) 42%)
-        background: -ms-linear-gradient(left, #4237dd 10%, rgba(255, 255, 255, 0) 42%)
-        background: linear-gradient(to right, #4237dd 10%, rgba(255, 255, 255, 0) 42%)
+        background: $loaderBackground
+        background: -moz-linear-gradient(left, $loaderBackground 10%, rgba(255, 255, 255, 0) 42%)
+        background: -webkit-linear-gradient(left, $loaderBackground 10%, rgba(255, 255, 255, 0) 42%)
+        background: -o-linear-gradient(left, $loaderBackground 10%, rgba(255, 255, 255, 0) 42%)
+        background: -ms-linear-gradient(left, $loaderBackground 10%, rgba(255, 255, 255, 0) 42%)
+        background: linear-gradient(to right, $loaderBackground 10%, rgba(255, 255, 255, 0) 42%)
         position: relative
         -webkit-animation: load3 1.4s infinite linear
         animation: load3 1.4s infinite linear
@@ -23,7 +25,7 @@
         &:before
             width: 50%
             height: 50%
-            background: #4237dd
+            background: $loaderBackground
             border-radius: 100% 0 0 0
             position: absolute
             top: 0
@@ -31,7 +33,7 @@
             content: ''
 
         &:after
-            background: #dddddd
+            background: #b20000
             width: 75%
             height: 75%
             border-radius: 50%
