@@ -9,7 +9,7 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Sections](#sections)
-- [Instruction to tun](#instruction-to-run)
+- [Instruction to run](#instruction-to-run)
 - [Instruction to use](#instruction-to-use)
 - [Where To Watch](#where-to-watch)
 - [Contact](#contact)
